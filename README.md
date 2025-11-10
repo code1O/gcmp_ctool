@@ -54,5 +54,5 @@ One prompt, one result, no worries.
 
 # &#x1F4BE; Download
 
-<a href="/src/gcmp.sh" download>gcmp.sh</a>
+<a href="/gcmp.sh" download>gcmp.sh</a>
 
