@@ -54,5 +54,5 @@ One prompt, one result, no worries.
 
 # &#x1F4BE; Download
 
-<a href="https://github.com/code1O/gcmp_ctool/bloob/main/cmp.sh" download>gcmp.sh</a>
+<a href="https://github.com/code1O/gcmp_ctool/blob/main/cmp.sh" download>gcmp.sh</a>
 
