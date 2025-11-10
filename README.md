@@ -4,16 +4,16 @@
 
 One prompt, one result, no worries.
 
-# How to use `GCMP_CTOOL`
+## How to use `GCMP_CTOOL`
 
-* ## Move the file from the dir were had've been download to the dir `/home/$USER/`
+* Move the file from the dir were had've been download to the dir `/home/$USER/`
 
     <pre>
     user@root:~/Desktop/Download$ move gcmp.sh /home/$USER/cmp.sh
     user@root:~/Desktop/Download$
     </pre>
 
-* ## Type the help prompt `gcmp -h`
+* Type the help prompt `gcmp -h`
 
     <pre>
     user@root:~$ gcmp -h
@@ -52,7 +52,7 @@ One prompt, one result, no worries.
 
 ---
 
-# &#x1F4BE; Download
+## &#x1F4BE; Download
 
 <a href="https://github.com/code1O/gcmp_ctool/releases/download/v11.09.25/cmp.sh">gcmp.sh</a>
 
